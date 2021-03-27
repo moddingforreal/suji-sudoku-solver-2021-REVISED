@@ -1,6 +1,9 @@
-# Suji Sudoku Solver - 2008
+# Suji Sudoku Solver - Revised 2021
 
-A simple sudoku solver made in 2008
+A fork of @congory's simple sudoku solver made in 2008 
+(https://ww.github.com/congory/suji-sudoku-solver/)
+
+Revised & updated to 2021
 
 Technologies:
-- Java 5 or 6 (pretty old)
+- Java 8 & JavaFX
